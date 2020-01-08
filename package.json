@@ -30,17 +30,18 @@
     "lodash.curry": "^4.1.1"
   },
   "peerDependencies": {
-    "fluture": ">=10 <11"
+    "fluture": ">=10 <12"
   },
   "devDependencies": {
-    "eslint": "^5.12.1",
-    "fluture": "^10.3.1",
+    "eslint": "^6.7.2",
+    "eslint-plugin-markdown": "^1.0.1",
+    "fluture": "^11.0.0",
     "license-checker": "^25.0.1",
     "rollup": "^1.1.2",
-    "sanctuary-style": "^2.0.0",
+    "sanctuary-style": "^3.0.0",
     "sinon": "^7.2.3",
     "transcribe": "^1.1.1",
-    "xyz": "^3.0.0"
+    "xyz": "^4.0.0"
   },
   "keywords": [
     "fluture",

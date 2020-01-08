@@ -1,5 +1,5 @@
 # Fluture Fastify
-[![Build Status](https://travis-ci.com/wearereasonablepeople/fluture-fastify.svg?branch=master)](https://travis-ci.com/wearereasonablepeople/fluture-fastify)
+[![Build Status](https://travis-ci.com/wearereasonablepeople/fluture-fastify.svg?branch=master)](https://travis-ci.com/wearereasonablepeople/fluture-fastify) [![Greenkeeper badge](https://badges.greenkeeper.io/fluture-js/fluture-fastify.svg)](https://greenkeeper.io/)
 
 Create [Fastify][] handlers using [Future][]s from [Fluture][].
 
