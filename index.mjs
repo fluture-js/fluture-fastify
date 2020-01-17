@@ -1,5 +1,5 @@
 //. # Fluture Fastify
-//. [![Build Status](https://travis-ci.com/wearereasonablepeople/fluture-fastify.svg?branch=master)](https://travis-ci.com/wearereasonablepeople/fluture-fastify)
+//. [![Build Status](https://travis-ci.com/fluture-js/fluture-fastify.svg?branch=master)](https://travis-ci.com/fluture-js/fluture-fastify)
 //.
 //. Create [Fastify][] handlers using [Future][]s from [Fluture][].
 
