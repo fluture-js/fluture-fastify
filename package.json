@@ -39,7 +39,7 @@
     "license-checker": "^25.0.1",
     "rollup": "^1.1.2",
     "sanctuary-style": "^3.0.0",
-    "sinon": "^8.1.0",
+    "sinon": "^9.0.0",
     "transcribe": "^1.1.1",
     "xyz": "^4.0.0"
   },
