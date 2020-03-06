@@ -37,7 +37,7 @@
     "eslint-plugin-markdown": "^1.0.1",
     "fluture": "^11.0.0",
     "license-checker": "^25.0.1",
-    "rollup": "^1.1.2",
+    "rollup": "^2.0.0",
     "sanctuary-style": "^3.0.0",
     "sinon": "^9.0.0",
     "transcribe": "^1.1.1",
